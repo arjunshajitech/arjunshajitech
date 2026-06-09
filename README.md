@@ -1,5 +1,5 @@
 
-<h1 align="left">Hey 👋 What's up? / ഹായ് 👋 എന്തൊക്കെയുണ്ട്?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">My name is Arjun Shaji, from Kerala, India🌴</p>
 
