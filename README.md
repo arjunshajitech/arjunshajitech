@@ -3,4 +3,4 @@
 
 <p align="left">My name is Arjun Shaji, from Kerala, India🌴</p>
 
-<p align="left">https://openletter.live : Create digital invitations in 2 minute.<br><br>https://blog.arjunshaji.me : No fluff engineering.<br><br>https://bin.arjunshaji.me : We remember, so you don’t have to.<br><br>https://www.dnsplay.fun : A fun DNS server packed with handy tools.</p>
+<p align="left">https://openletter.live : Create digital invitations in 2 minute.<br><br>https://blog.arjunshaji.me : No fluff engineering.<br><br>https://bin.arjunshaji.me : We remember, so you don’t have to.<br><br>https://dnsplay.fun : A fun DNS server packed with handy tools.</p>
